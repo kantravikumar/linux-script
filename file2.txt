@@ -1,3 +1,4 @@
 file2
+this is text file 
 
 This is tet file 
